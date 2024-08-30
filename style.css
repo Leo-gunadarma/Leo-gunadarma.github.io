@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.container {
+    width: 60%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #4CAF50;
+}
+
+header h2 {
+    margin: 0;
+    font-size: 18px;
+    color: #555;
+}
+
+.invitation p {
+    line-height: 1.6;
+}
+
+.invitation ul {
+    text-align: left;
+    margin: 20px 0;
+}
+
+.invitation ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    border-top: 2px solid #ddd;
+    padding-top: 20px;
+    margin-top: 20px;
+}
